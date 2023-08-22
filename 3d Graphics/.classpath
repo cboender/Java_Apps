@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="GraphicsLib/lwjgl-assimp-natives-windows.jar"/>
+	<classpathentry kind="lib" path="GraphicsLib/lwjgl-assimp.jar"/>
+	<classpathentry kind="lib" path="GraphicsLib/lwjgl-glfw-natives-windows.jar"/>
+	<classpathentry kind="lib" path="GraphicsLib/lwjgl-glfw.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/FracturedWorld/GraphicsLib/lwjgl-glfw-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="GraphicsLib/lwjgl-natives-windows.jar"/>
+	<classpathentry kind="lib" path="GraphicsLib/lwjgl-openal-natives-windows.jar"/>
+	<classpathentry kind="lib" path="GraphicsLib/lwjgl-openal.jar"/>
+	<classpathentry kind="lib" path="GraphicsLib/lwjgl-opengl-natives-windows.jar"/>
+	<classpathentry kind="lib" path="GraphicsLib/lwjgl-opengl.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/FracturedWorld/GraphicsLib/lwjgl-opengl-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="GraphicsLib/lwjgl-stb-natives-windows.jar"/>
+	<classpathentry kind="lib" path="GraphicsLib/lwjgl-stb.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/FracturedWorld/GraphicsLib/lwjgl-stb-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="GraphicsLib/lwjgl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
